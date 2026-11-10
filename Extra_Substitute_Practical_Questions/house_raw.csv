@@ -1,0 +1,11 @@
+Area,Bedrooms,Location,Furnished,Price
+1000,2,Suburb,Yes,50
+1200,3,City,No,75
+,3,City,Yes,80
+1500,4,Suburb,No,
+1800,4,City,Yes,110
+900,2,,No,45
+2000,5,City,Yes,140
+1100,3,Suburb,,60
+1600,3,City,No,95
+1300,,Suburb,Yes,65
